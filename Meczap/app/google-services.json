@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326177401043",
+    "firebase_url": "https://meczap-883b5.firebaseio.com",
+    "project_id": "meczap-883b5",
+    "storage_bucket": "meczap-883b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326177401043:android:32e8594e6c1ac57c2d4c26",
+        "android_client_info": {
+          "package_name": "com.ilopes.meczap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326177401043-ss55ofm8mla2ojpdeh09fvq2p5phhc60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilopes.meczap",
+            "certificate_hash": "bbc4f9aca3c1c2e7985677334ca761d88aa68269"
+          }
+        },
+        {
+          "client_id": "326177401043-esnqdrmj5fk66hajtrhie0kfoq6il4s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgu44F5yle08cIC01EfAqt3MgvUrjZRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326177401043-esnqdrmj5fk66hajtrhie0kfoq6il4s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
